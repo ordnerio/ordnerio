@@ -5,6 +5,7 @@
 Ordnerio ist ein Entwicklungsprojekt für Freiberufler und Kleinunternehmen: Datei in den Ordner legen, die KI erkennt Absender, Datum und Betrag, benennt die Datei sauber und legt sie ab. Lokal auf dem PC, mit App für das Smartphone.
 
 Website: https://www.ordnerio.eu
+
 Kontakt und Betatest-Anfragen: ai@ordnerio.eu
 
 > Dies ist die öffentliche Projektseite. Der Quellcode wird **nicht** veröffentlicht.
